@@ -1,0 +1,48 @@
+[2020-02-23 12:27:36.685] [exthost] [info] extension host started
+[2020-02-23 12:27:36.813] [exthost] [info] ExtensionService#_doActivateExtension vscode.php-language-features {"startup":false,"extensionId":{"value":"vscode.php-language-features","_lower":"vscode.php-language-features"},"activationEvent":"onLanguage:php"}
+[2020-02-23 12:27:36.814] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/php-language-features/dist/phpMain
+[2020-02-23 12:27:36.843] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-23 12:27:36.843] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-02-23 12:27:36.860] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-23 12:27:36.863] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/emmet/dist/extension
+[2020-02-23 12:27:36.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"waderyan.gitblame","_lower":"waderyan.gitblame"},"activationEvent":"*"}
+[2020-02-23 12:27:36.949] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/git/dist/main
+[2020-02-23 12:27:37.061] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-23 12:27:37.061] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2020-02-23 12:27:37.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-02-23 12:27:37.067] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/search-result/dist/extension.js
+[2020-02-23 12:27:37.069] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-02-23 12:27:37.069] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/25/usr/share/code/resources/app/extensions/vscode-account/dist/extension.js
+[2020-02-23 12:27:37.074] [exthost] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"extensionId":{"value":"alefragnani.project-manager","_lower":"alefragnani.project-manager"},"activationEvent":"*"}
+[2020-02-23 12:27:37.074] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/alefragnani.project-manager-10.10.0/dist/extension
+[2020-02-23 12:27:37.082] [exthost] [info] ExtensionService#_doActivateExtension arturock.gitstash {"startup":true,"extensionId":{"value":"arturock.gitstash","_lower":"arturock.gitstash"},"activationEvent":"*"}
+[2020-02-23 12:27:37.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/arturock.gitstash-3.2.0/dist/extension
+[2020-02-23 12:27:37.092] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-02-23 12:27:37.092] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/eamodio.gitlens-10.2.1/dist/extension
+[2020-02-23 12:27:37.168] [exthost] [info] ExtensionService#_doActivateExtension huizhou.githd {"startup":true,"extensionId":{"value":"huizhou.githd","_lower":"huizhou.githd"},"activationEvent":"*"}
+[2020-02-23 12:27:37.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/huizhou.githd-2.2.3/out/src/extension
+[2020-02-23 12:27:37.181] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph {"startup":true,"extensionId":{"value":"mhutchie.git-graph","_lower":"mhutchie.git-graph"},"activationEvent":"*"}
+[2020-02-23 12:27:37.181] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/mhutchie.git-graph-1.21.0/out/extension.js
+[2020-02-23 12:27:37.215] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare {"startup":true,"extensionId":{"value":"ms-vsliveshare.vsliveshare","_lower":"ms-vsliveshare.vsliveshare"},"activationEvent":"*"}
+[2020-02-23 12:27:37.215] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.1653/out/prod/extension-prod
+[2020-02-23 12:27:37.473] [exthost] [info] ExtensionService#_doActivateExtension oshri6688.javascript-test-runner {"startup":true,"extensionId":{"value":"oshri6688.javascript-test-runner","_lower":"oshri6688.javascript-test-runner"},"activationEvent":"*"}
+[2020-02-23 12:27:37.473] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/oshri6688.javascript-test-runner-1.2.1/out/extension
+[2020-02-23 12:27:37.497] [exthost] [info] ExtensionService#_doActivateExtension vscode-icons-team.vscode-icons {"startup":true,"extensionId":{"value":"vscode-icons-team.vscode-icons","_lower":"vscode-icons-team.vscode-icons"},"activationEvent":"*"}
+[2020-02-23 12:27:37.497] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/vscode-icons-team.vscode-icons-10.0.0/dist/src/vscode-icons.bundle.js
+[2020-02-23 12:27:37.547] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"extensionId":{"value":"vscodevim.vim","_lower":"vscodevim.vim"},"activationEvent":"*"}
+[2020-02-23 12:27:37.547] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/vscodevim.vim-1.12.4/out/extension
+[2020-02-23 12:27:37.914] [exthost] [info] eager extensions activated
+[2020-02-23 12:27:39.441] [exthost] [error] Activating extension ms-vsliveshare.vsliveshare failed due to an error:
+[2020-02-23 12:27:39.441] [exthost] [error] Error: Agent terminated with exit code: 0 and signal null: A fatal error occurred. The required library libhostfxr.so could not be found.
+If this is a self-contained application, that library should exist in [/home/malky/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.1653/dotnet_modules/].
+If this is a framework-dependent application, install the runtime in the global location [/usr/share/dotnet] or use the DOTNET_ROOT environment variable to specify the runtime location or register the runtime location in [/etc/dotnet/install_location].
+
+The .NET Core runtime can be found at:- https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=linuxmint.19.3-x64
+	at ChildProcess.<anonymous> (/home/malky/.vscode/extensions/ms-vsliveshare.vsliveshare-1.0.1653/out/prod/extension-prod.js:132191:32)
+	at ChildProcess.emit (events.js:205:15)
+	at maybeClose (internal/child_process.js:1021:16)
+	at Socket.<anonymous> (internal/child_process.js:430:11)
+	at Socket.emit (events.js:200:13)
+	at Pipe.<anonymous> (net.js:586:12)
+[2020-02-23 12:27:39.881] [exthost] [info] ExtensionService#_doActivateExtension waderyan.gitblame {"startup":true,"extensionId":{"value":"waderyan.gitblame","_lower":"waderyan.gitblame"},"activationEvent":"*"}
+[2020-02-23 12:27:39.881] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/malky/.vscode/extensions/waderyan.gitblame-3.0.1/dist/bundle
